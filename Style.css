@@ -1,0 +1,59 @@
+body {
+    background-size: cover;
+    font-family: 'Patrick Hand', cursive;
+}
+.heading
+{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+.note
+{
+    font-size: 15px;
+    color: blue;
+}
+.div_speed
+{
+    float: left;
+}
+.div_speed_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+#speed
+{
+    font-size: 23px;
+    margin: 15px;
+}
+.div_volume
+{
+    float: right;
+}
+.div_volume_img
+{
+    width: 200px;
+    border-radius: 100px;
+}
+#volume
+{
+    font-size: 23px;
+    margin: 15px;
+}
+.play
+{
+    float: center;
+    margin-top: 40px;
+    font-size: 20px;
+}
+.play:hover {
+    color: red;
+    font-size: 30px;
+    font-weight: bolder;
+}
+canvas 
+{
+    border: 5 px solid white;
+    border-radius: 20px;
+}
